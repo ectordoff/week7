@@ -1,0 +1,16 @@
+This makes is easy to calculate the total current, I = 5V / (RA + RB)
+
+Question 1: Assume RA and RB are each equal to 10000 Ω. What are the total resistance and total current in the circuit?
+I = 5V/(10000+10000) 
+I = 0.00025amp
+
+Question 2: Assume RA = 10000 Ω and RB = 5000 Ω. What are the total resistance and total current in the circuit?
+I = 5V / (10000 + 5000) 
+I = .00033333amp
+total resistance 15,000Ω
+
+For each resistor, V = I ⨉ R. So VA = I ⨉ RA and VB = I ⨉ RB.
+
+Question 3: Assume RA = 10000 Ω and RB = 5000 Ω. How much voltage is lost through resistor RA? And RB?
+10000 x .00033333 = 3.3333v
+5000 x .00033333 = 1.66665v
